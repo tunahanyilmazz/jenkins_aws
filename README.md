@@ -64,5 +64,10 @@ edit inbounds and add custon TCP port 8080
 
 $ service jenkins start 
  
+<img width="1176" alt="image" src="https://user-images.githubusercontent.com/10364043/227921931-f35a1e09-d1e6-4f07-838d-b044ac339732.png">
 
+cat /var/lib/jenkins/secrets/initialAdminPassword
+
+Install plugins. 
+Done. 
 
