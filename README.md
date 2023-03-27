@@ -11,12 +11,17 @@ Launch instance.
 Part-2 
 Connection instance over SSH on your device.
 -Open an SSH client.
+
 -Locate your private key file. The key used to launch this instance is Ins1.pem (name what you create)
+
 -Run this command, if necessary, to ensure your key is not publicly viewable.
+
  chmod 400 Ins1.pem
 -ec2-16-16-70-236.eu-north-1.compute.amazonaws.com. 
+
 example : 
  ssh -i "Ins1.pem" ec2-user@ec2-16-16-70-236.eu-north-1.compute.amazonaws.com
+ 
 (16-16-70-236) is Public IPv4 address
 You can find this 
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/10364043/227905371-8359c53a-925a-4318-91d4-f9489638ac8e.png">
