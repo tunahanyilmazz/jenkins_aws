@@ -4,7 +4,9 @@ create free aws account -
 create EC2 Red Hat Linux instance 
 
 Create new key pair 
+
 <img width="712" alt="image" src="https://user-images.githubusercontent.com/10364043/227903996-0de91137-814b-4f1a-9bca-6864f7d2e855.png">
+
 
 Launch instance. 
 
@@ -36,6 +38,7 @@ On terminal
 $ sudo su -
 $ sudo yum install java-1.8.0-openjdk-devel
 $ sudo yum install java-11-openjdk-devel
+
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/10364043/227918008-73f0d1d0-d038-4198-9ea7-d0e1a2c0d4ee.png">
 
 $ ls -la
@@ -52,6 +55,7 @@ logout
 login
 
 $ echo $PATH 
+
 <img width="865" alt="image" src="https://user-images.githubusercontent.com/10364043/227919689-c42c4333-3ce9-4619-8f08-141d39e39d4c.png">
 
 Part-3
@@ -65,6 +69,8 @@ $ yum install jenkins
 
 Before start jenkins go to aws console 
 edit inbounds and add custon TCP port 8080 
+
+
 <img width="893" alt="image" src="https://user-images.githubusercontent.com/10364043/227921278-bdaa56c5-df25-4d56-8f31-1828a5ca518e.png">
 
 $ service jenkins start 
