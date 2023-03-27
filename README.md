@@ -26,6 +26,8 @@ example :
  
 (16-16-70-236) is Public IPv4 address
 You can find this 
+
+
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/10364043/227905371-8359c53a-925a-4318-91d4-f9489638ac8e.png">
 
 You will see this output 
