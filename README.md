@@ -84,3 +84,19 @@ cat /var/lib/jenkins/secrets/initialAdminPassword
 Install plugins. 
 Done. 
 
+Open Jenkins and create a freestyple project. 
+
+Add a build step. 
+
+<img width="559" alt="image" src="https://user-images.githubusercontent.com/10364043/228189075-b4349de8-1157-42f3-86e6-afb4d94dcac1.png">
+
+Save and build. 
+
+The output will be : 
+
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/10364043/228189212-f0b5c9b7-c1a2-4814-b9c3-f76b492ba90c.png">
+
+
+Done.
+
+
